@@ -1,0 +1,15 @@
+{
+  "expected": 5000,
+  "valid_jpegs": 4993,
+  "total_bytes": 253019455,
+  "missing": [
+    "ae11f70e-fd60-4014-809e-9ae783aca881",
+    "b1d15740-3736-41bd-af55-4b4e99569676",
+    "b498929c-cc61-4523-90cb-4d92b91622be",
+    "b52adb5f-7a45-4712-acf6-fda2657fb7d5",
+    "b7ad7e4f-0543-4df6-bd97-164225d3f2f7",
+    "bd3646dc-0056-405a-9ac1-6fd64861224e",
+    "bd437e64-229a-40b2-a885-a3d66a0f1f2c"
+  ],
+  "invalid": []
+}
